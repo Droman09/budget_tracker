@@ -1,6 +1,6 @@
 {
     "short_name": "Budget Tracker",
-    "name": "Web App Manifest Demo",
+    "name": "Offlines Online Budget Tracker",
     "icons": [
       {
         "src": "public/icons/icon-192x192.png",
